@@ -1,3 +1,4 @@
+# Food's Info 🥦🥩🍠
 This is a client app to display nutrient data of all types of foods available at the FoodData Central API.
 
 ### Citation:
